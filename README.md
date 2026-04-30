@@ -46,9 +46,12 @@ Lógica de comparación de cartas
 Animaciones con CSS (perspective, transform, backface-visibility)
 📸 Demo
 
-Agrega aquí una captura de pantalla del juego:
-
 ![Demo del juego](./screenshot.png)
+
+🌐 Demo en línea
+
+http://memory-game-silk-two.vercel.app/
+
 ❤️ Autor
 
 Desarrollado por Luis Orlando
